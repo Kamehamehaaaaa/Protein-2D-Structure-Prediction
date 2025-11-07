@@ -82,6 +82,9 @@ def calculateHHContact(sequence, grid):
 def randomPath(length):
     while True:
         path = [random.choice(moves) for _ in range(length)]
+        # path = []
+        # for i in "LRFRFRFLRFFFRRL":
+        #     path.append(i)
         valid, grid = generateGrid(path)
         if valid:
             return path, grid
@@ -167,7 +170,8 @@ def getHPLattice(sequence, grid):
 # seq = "HPHPPHHPHPPHPHHPPHPH"
 # seq = "HPHPPHHPHPPH"
 # seq = "HHPPHPHPH"
-seq = "HPPHHPHPHHPPHPHPPHHPPHHPHPHPHHPPPHHPPHPHPHHPPHPPHPHHPPHPPHHPPHPHPPHPPHPHHPPPHHPPHPPHPPHPHHPPHPH"
+# seq = "HPPHHPHPHHPPHPHPPHHPPHHPHPHPHHPPPHHPPHPHPHHPPHPPHPHHPPHPPHHPPHPHPPHPPHPHHPPPHHPPHPPHPPHPHHPPHPH"
+seq = "HHHPPPPHPHPHPPHH"
 
 energies = []
 iters = []
