@@ -1,0 +1,123 @@
+HP Sequence: HHPPHPHPH
+
+Random Fold:  LFRLLFRL
+Iteration 0:
+Final Fold : LFRRLFRL
+Final Energy: -1
+Random Fold:  LLFRLRRL
+Iteration 1:
+Final Fold : LLRRLRRF
+Final Energy: -2
+Random Fold:  LFFRLFFR
+Iteration 2:
+Final Fold : LFFLLFFR
+Final Energy: -1
+Random Fold:  LRLRFLFR
+Iteration 3:
+Final Fold : LRLLFLFR
+Final Energy: -2
+Random Fold:  LLFRLFLF
+Iteration 4:
+Final Fold : LLFRRFLF
+Final Energy: -1
+Random Fold:  RFRFLLRL
+Iteration 5:
+Final Fold : RFRRLLRL
+Final Energy: -1
+Random Fold:  RRFLFFRF
+Iteration 6:
+Final Fold : RRLLFLRF
+Final Energy: -2
+Random Fold:  LFRRLRLF
+Iteration 7:
+Final Fold : LFRRLRLF
+Final Energy: -1
+Random Fold:  LFRLFLRL
+Iteration 8:
+Final Fold : LFRRFLRL
+Final Energy: -1
+Random Fold:  FLRLFRLR
+Iteration 9:
+Final Fold : FLRRFRLR
+Final Energy: -2
+Random Fold:  FLRRFLFF
+Iteration 10:
+Final Fold : FLRRFRFF
+Final Energy: -2
+Random Fold:  LFFFRFRR
+Iteration 11:
+Final Fold : LFRFRFRR
+Final Energy: -1
+Random Fold:  LLRFFLFR
+Iteration 12:
+Final Fold : LLRRFLFR
+Final Energy: -1
+Random Fold:  LFRFLFFF
+Iteration 13:
+Final Fold : LFRRLFFF
+Final Energy: -1
+Random Fold:  LLFFFFLF
+Iteration 14:
+Final Fold : LLFFFFLF
+Final Energy: 0
+Random Fold:  RFLRFLRF
+Iteration 15:
+Final Fold : RFRRFLRF
+Final Energy: -1
+Random Fold:  FRFRLLFF
+Iteration 16:
+Final Fold : FRFFLLFF
+Final Energy: -1
+Random Fold:  FLFFRFLF
+Iteration 17:
+Final Fold : FLFRRFLF
+Final Energy: -1
+Random Fold:  FRFLFLLR
+Iteration 18:
+Final Fold : FRFLFLLR
+Final Energy: -1
+Random Fold:  LLLRLRLR
+Iteration 19:
+Final Fold : LLRRFRLR
+Final Energy: -2
+Random Fold:  LLLFLRFL
+Iteration 20:
+Final Fold : LLLFLRFL
+Final Energy: 0
+Random Fold:  LFLRRLRF
+Iteration 21:
+Final Fold : LFLRRFRF
+Final Energy: -1
+Random Fold:  RLFFLFLR
+Iteration 22:
+Final Fold : RLFFLFLR
+Final Energy: 0
+Random Fold:  RFFRFLFL
+Iteration 23:
+Final Fold : RFFLFLFL
+Final Energy: -1
+Random Fold:  FFFRRFFF
+Iteration 24:
+Final Fold : FFFRRFFF
+Final Energy: -1
+Random Fold:  LLFFLLRR
+Iteration 25:
+Final Fold : LLFFLLRR
+Final Energy: 0
+Random Fold:  FLFRLLRF
+Iteration 26:
+Final Fold : FLRRLRRF
+Final Energy: -2
+Random Fold:  LFFLRRLF
+Iteration 27:
+Final Fold : LFLLRRLF
+Final Energy: -1
+Random Fold:  LRFRFFRL
+Iteration 28:
+Final Fold : LRFRFFRL
+Final Energy: 0
+Random Fold:  LLRRLRRF
+Iteration 29:
+Final Fold : LLRRLRRF
+Final Energy: -2
+Average energy: -1.1 
