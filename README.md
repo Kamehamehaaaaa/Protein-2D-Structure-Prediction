@@ -64,20 +64,20 @@ python hillClimbing.py <HP Sequence>
 
 --- 
 
-## Sample Sequences
+## 🧩 Sample Sequences
 
-sequence 1: "HPHPPHHPHPPH"
-sequence 2: "HHPPHPHPH"
-sequence 3: "HPHPPHHPHPPHPHHPPHPH"
-sequence of length 100: "HPPHHPHPHHPPHPHPPHHPPHHPHPHPHHPPPHHPPHPHPHHPPHPPHPHHPPHPPHHPPHPHPPHPPHPHHPPPHHPPHPPHPPHPHHPPHPH"
+- sequence 1: "HPHPPHHPHPPH"
+- sequence 2: "HHPPHPHPH"
+- sequence 3: "HPHPPHHPHPPHPHHPPHPH"
+- sequence of length 100: "HPPHHPHPHHPPHPHPPHHPPHHPHPHPHHPPPHHPPHPHPHHPPHPPHPHHPPHPPHHPPHPHPPHPPHPHHPPPHHPPHPPHPPHPHHPPHPH"
 
 --- 
 
 📊 Visualization
 The program automatically plots the best lattice structures found:
-Orange nodes → Hydrophobic (H)
-Blue nodes → Polar (P)
-Gray lines → Peptide bonds
+- Orange nodes → Hydrophobic (H)
+- Blue nodes → Polar (P)
+- Gray lines → Peptide bonds
 
 ---
 
