@@ -1,9 +1,3 @@
-sequence 3: "HPHPPHHPHPPHPHHPPHPH"
-sequence 1: "HPHPPHHPHPPH"
-sequence 2: "HHPPHPHPH"
-sequence of length 100: "HPPHHPHPHHPPHPHPPHHPPHHPHPHPHHPPPHHPPHPHPHHPPHPPHPHHPPHPPHHPPHPHPPHPPHPHHPPPHHPPHPPHPPHPHHPPHPH"
-
-
 # 🧬 Protein Structure Prediction using Hill Climbing on 2D HP Lattice Model
 
 This project implements a **Hill Climbing algorithm** for predicting simplified **protein folding** structures using the **2D Hydrophobic–Polar (HP) lattice model**.  
@@ -66,6 +60,16 @@ pip install -r requirements.txt
 
 # Run the Hill Climbing algorithm
 python hillClimbing.py <HP Sequence>
+```
+
+--- 
+
+## Sample Sequences
+
+sequence 1: "HPHPPHHPHPPH"
+sequence 2: "HHPPHPHPH"
+sequence 3: "HPHPPHHPHPPHPHHPPHPH"
+sequence of length 100: "HPPHHPHPHHPPHPHPPHHPPHHPHPHPHHPPPHHPPHPHPHHPPHPPHPHHPPHPPHHPPHPHPPHPPHPHHPPPHHPPHPPHPPHPHHPPHPH"
 
 --- 
 
