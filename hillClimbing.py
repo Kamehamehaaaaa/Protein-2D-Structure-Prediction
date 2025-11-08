@@ -171,7 +171,12 @@ def getHPLattice(sequence, grid):
 # seq = "HPHPPHHPHPPH"
 # seq = "HHPPHPHPH"
 # seq = "HPPHHPHPHHPPHPHPPHHPPHHPHPHPHHPPPHHPPHPHPHHPPHPPHPHHPPHPPHHPPHPHPPHPPHPHHPPPHHPPHPPHPPHPHHPPHPH"
-seq = "HHHPPPPHPHPHPPHH"
+# seq = "HHHPPPPHPHPHPPHH"
+
+seq = input("Enter the HP sequence\n")
+
+if len(seq)==0:
+    seq = "HHHPPPPHPHPHPPHH"
 
 energies = []
 iters = []
