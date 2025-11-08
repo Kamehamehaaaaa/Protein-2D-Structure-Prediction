@@ -73,7 +73,8 @@ python hillClimbing.py <HP Sequence>
 
 --- 
 
-📊 Visualization
+## 📊 Visualization
+
 The program automatically plots the best lattice structures found:
 - Orange nodes → Hydrophobic (H)
 - Blue nodes → Polar (P)
@@ -81,7 +82,8 @@ The program automatically plots the best lattice structures found:
 
 ---
 
-📜 License
+## 📜 License
+
 © 2025 Rohit Bogulla
 This project is released under the MIT License.
 Please cite this work if used for research or educational purposes.
